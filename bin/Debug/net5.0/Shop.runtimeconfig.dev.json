@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/brcmesquita/.dotnet/store/|arch|/|tfm|",
-      "/home/brcmesquita/.nuget/packages"
-    ]
-  }
-}
